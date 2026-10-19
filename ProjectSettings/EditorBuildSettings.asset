@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MenuJuego.unity
+    guid: 34e141e133652e74cbc862c9519fc778
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: d1fb7b5a0176483408b71bd2e35c1f06
+  - enabled: 1
+    path: Assets/Scenes/ExteriorCueva.unity
+    guid: 472ff6d3dd11e884e9c16ebce49ddd66
+  - enabled: 1
+    path: Assets/Scenes/Lago.unity
+    guid: c505c13f22573af408c51e23eee64d4a
+  - enabled: 1
+    path: Assets/Scenes/Celda.unity
+    guid: 6fe91bcc7a79eba4da63816ca4bad71b
+  - enabled: 1
+    path: Assets/Scenes/MamutGrande.unity
+    guid: 0a9f4d546cdd2174f8b81c5e2e429bcc
+  - enabled: 1
+    path: Assets/Scenes/VideoFinal.unity
+    guid: 8d8c7d5f557a0e94781d47889e729d52
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

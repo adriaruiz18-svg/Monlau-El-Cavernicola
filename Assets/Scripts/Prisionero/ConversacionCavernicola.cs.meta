@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 3797b83f1a69ff54bb59946c68f88047
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - panelDialogo: {instanceID: 0}
+  - textoDialogo: {instanceID: 0}
+  - textoNombre: {instanceID: 0}
+  - retratoIzquierda: {instanceID: 0}
+  - retratoDerecha: {instanceID: 0}
+  - jugador: {instanceID: 0}
+  - spriteNormalProtagonista: {instanceID: 0}
+  - spriteNormalCavernicola: {fileID: -3701303151067366154, guid: ac51a595360aa274ab1832c7b8118006, type: 3}
+  - spriteSerio: {fileID: -432360683449755375, guid: f424d09ff9199154b9eb7744d180c66b, type: 3}
+  - spriteSorprendido: {fileID: -3429975159548225139, guid: 9c6c6b9ba5c9a81409c9b2420ac87879, type: 3}
+  - spriteTriste: {fileID: -967893851632489434, guid: 468a07aa01203af4ba54c93bac948453, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

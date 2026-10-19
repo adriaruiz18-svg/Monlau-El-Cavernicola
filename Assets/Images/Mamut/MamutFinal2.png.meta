@@ -1,0 +1,6814 @@
+fileFormatVersion: 2
+guid: 17caf391d6131f94d9778ecbaab837c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6384031904340760912
+    second: MamutFinal2_0
+  - first:
+      213: -6012479566910686025
+    second: MamutFinal2_1
+  - first:
+      213: 3360227534736123954
+    second: MamutFinal2_2
+  - first:
+      213: 2020106669418264660
+    second: MamutFinal2_3
+  - first:
+      213: -3225098239115053013
+    second: MamutFinal2_4
+  - first:
+      213: 4197022621833681107
+    second: MamutFinal2_5
+  - first:
+      213: -1312279586618406770
+    second: MamutFinal2_6
+  - first:
+      213: 1937539110478204600
+    second: MamutFinal2_7
+  - first:
+      213: -1646413719238145851
+    second: MamutFinal2_8
+  - first:
+      213: -7779711257571092083
+    second: MamutFinal2_9
+  - first:
+      213: -8318306134331590495
+    second: MamutFinal2_10
+  - first:
+      213: 4998466739528596477
+    second: MamutFinal2_11
+  - first:
+      213: -9124200369256457643
+    second: MamutFinal2_12
+  - first:
+      213: 1082845554802208758
+    second: MamutFinal2_13
+  - first:
+      213: -3015471185174480297
+    second: MamutFinal2_14
+  - first:
+      213: 2016765137126936797
+    second: MamutFinal2_15
+  - first:
+      213: 1521951417249378250
+    second: MamutFinal2_16
+  - first:
+      213: -1985180091147375320
+    second: MamutFinal2_17
+  - first:
+      213: 2830206536637775750
+    second: MamutFinal2_18
+  - first:
+      213: 3189741212730998856
+    second: MamutFinal2_19
+  - first:
+      213: -1491933632230174561
+    second: MamutFinal2_20
+  - first:
+      213: 5959047042178437592
+    second: MamutFinal2_21
+  - first:
+      213: -3328103013340187434
+    second: MamutFinal2_22
+  - first:
+      213: -3289705691422376127
+    second: MamutFinal2_23
+  - first:
+      213: -1209046140276607480
+    second: MamutFinal2_24
+  - first:
+      213: 2659891485701607349
+    second: MamutFinal2_25
+  - first:
+      213: 2749933886932659292
+    second: MamutFinal2_26
+  - first:
+      213: 8395878509774650899
+    second: MamutFinal2_27
+  - first:
+      213: 2936408874575777214
+    second: MamutFinal2_28
+  - first:
+      213: -7860239725084654463
+    second: MamutFinal2_29
+  - first:
+      213: 8147837511990558336
+    second: MamutFinal2_30
+  - first:
+      213: 8439604263017265503
+    second: MamutFinal2_31
+  - first:
+      213: -5558640312339252975
+    second: MamutFinal2_32
+  - first:
+      213: 340170370944159081
+    second: MamutFinal2_33
+  - first:
+      213: -1426194077951265843
+    second: MamutFinal2_34
+  - first:
+      213: -2135164376040398601
+    second: MamutFinal2_35
+  - first:
+      213: -7636781155460566342
+    second: MamutFinal2_36
+  - first:
+      213: 966957416875547765
+    second: MamutFinal2_37
+  - first:
+      213: -4775715917911418037
+    second: MamutFinal2_38
+  - first:
+      213: 6465894531402859282
+    second: MamutFinal2_39
+  - first:
+      213: -4325892852937479426
+    second: MamutFinal2_40
+  - first:
+      213: 505084338531107706
+    second: MamutFinal2_41
+  - first:
+      213: -7668646378499509763
+    second: MamutFinal2_42
+  - first:
+      213: 5541012456453705055
+    second: MamutFinal2_43
+  - first:
+      213: -8403339020301454128
+    second: MamutFinal2_44
+  - first:
+      213: 8004108836875642435
+    second: MamutFinal2_45
+  - first:
+      213: 8873545675933224297
+    second: MamutFinal2_46
+  - first:
+      213: -7875369823153425220
+    second: MamutFinal2_47
+  - first:
+      213: 1665771723148002800
+    second: MamutFinal2_48
+  - first:
+      213: 4907721211007474374
+    second: MamutFinal2_49
+  - first:
+      213: -3777368474419671779
+    second: MamutFinal2_50
+  - first:
+      213: 8170756204355179747
+    second: MamutFinal2_51
+  - first:
+      213: 6364890845105203105
+    second: MamutFinal2_52
+  - first:
+      213: -4309080983289646024
+    second: MamutFinal2_53
+  - first:
+      213: 8117484032668758508
+    second: MamutFinal2_54
+  - first:
+      213: 2162111051789298600
+    second: MamutFinal2_55
+  - first:
+      213: -519622720802402725
+    second: MamutFinal2_56
+  - first:
+      213: 5411817327476579051
+    second: MamutFinal2_57
+  - first:
+      213: 2398845233345686129
+    second: MamutFinal2_58
+  - first:
+      213: 9164985605041301113
+    second: MamutFinal2_59
+  - first:
+      213: -8149889777146592670
+    second: MamutFinal2_60
+  - first:
+      213: -8272662281413939754
+    second: MamutFinal2_61
+  - first:
+      213: -2890011124953933468
+    second: MamutFinal2_62
+  - first:
+      213: 4140002418876811714
+    second: MamutFinal2_63
+  - first:
+      213: 4823649165375241476
+    second: MamutFinal2_64
+  - first:
+      213: -4112886952632600740
+    second: MamutFinal2_65
+  - first:
+      213: 5344021919821033798
+    second: MamutFinal2_66
+  - first:
+      213: -4753142642292685205
+    second: MamutFinal2_67
+  - first:
+      213: 2220695540631261149
+    second: MamutFinal2_68
+  - first:
+      213: 8228617231055753881
+    second: MamutFinal2_69
+  - first:
+      213: 8360233979720672966
+    second: MamutFinal2_70
+  - first:
+      213: 2595750011046256055
+    second: MamutFinal2_71
+  - first:
+      213: 4422267594029281741
+    second: MamutFinal2_72
+  - first:
+      213: -4489136316631077759
+    second: MamutFinal2_73
+  - first:
+      213: 5304026150001209057
+    second: MamutFinal2_74
+  - first:
+      213: 2714845290191325090
+    second: MamutFinal2_75
+  - first:
+      213: 6695560361189250784
+    second: MamutFinal2_76
+  - first:
+      213: -7989376980962169993
+    second: MamutFinal2_77
+  - first:
+      213: -8486317752430045526
+    second: MamutFinal2_78
+  - first:
+      213: -6492543844193473624
+    second: MamutFinal2_79
+  - first:
+      213: 4634790655848643764
+    second: MamutFinal2_80
+  - first:
+      213: -2056384789996930024
+    second: MamutFinal2_81
+  - first:
+      213: 609754551735774647
+    second: MamutFinal2_82
+  - first:
+      213: 3476726664122798742
+    second: MamutFinal2_83
+  - first:
+      213: 1453753015762616586
+    second: MamutFinal2_84
+  - first:
+      213: 4534364579984026491
+    second: MamutFinal2_85
+  - first:
+      213: 7882666151543281700
+    second: MamutFinal2_86
+  - first:
+      213: 8556786962386788048
+    second: MamutFinal2_87
+  - first:
+      213: -502910015939031606
+    second: MamutFinal2_88
+  - first:
+      213: -5725821340153209473
+    second: MamutFinal2_89
+  - first:
+      213: -2120364663673512779
+    second: MamutFinal2_90
+  - first:
+      213: 4588292074876788742
+    second: MamutFinal2_91
+  - first:
+      213: -859365628761801296
+    second: MamutFinal2_92
+  - first:
+      213: -9048027241706859436
+    second: MamutFinal2_93
+  - first:
+      213: -3114802116102248193
+    second: MamutFinal2_94
+  - first:
+      213: -6118029974266844314
+    second: MamutFinal2_95
+  - first:
+      213: -8808948796796873022
+    second: MamutFinal2_96
+  - first:
+      213: 1753728988304819293
+    second: MamutFinal2_97
+  - first:
+      213: 7239727738036438722
+    second: MamutFinal2_98
+  - first:
+      213: -7731634163443107284
+    second: MamutFinal2_99
+  - first:
+      213: 6341348759298374975
+    second: MamutFinal2_100
+  - first:
+      213: -5667549258428213683
+    second: MamutFinal2_101
+  - first:
+      213: -6560633425115420045
+    second: MamutFinal2_102
+  - first:
+      213: -4255889593514859798
+    second: MamutFinal2_103
+  - first:
+      213: 353916075232385275
+    second: MamutFinal2_104
+  - first:
+      213: 9035307591758736486
+    second: MamutFinal2_105
+  - first:
+      213: 7048398000061363309
+    second: MamutFinal2_106
+  - first:
+      213: -2929484182639435029
+    second: MamutFinal2_107
+  - first:
+      213: -2587282109304737699
+    second: MamutFinal2_108
+  - first:
+      213: 4729777629477695784
+    second: MamutFinal2_109
+  - first:
+      213: -7567049524976460394
+    second: MamutFinal2_110
+  - first:
+      213: 5809705875555957084
+    second: MamutFinal2_111
+  - first:
+      213: -1725643903524660531
+    second: MamutFinal2_112
+  - first:
+      213: -6001557668205201392
+    second: MamutFinal2_113
+  - first:
+      213: 4708403726815091423
+    second: MamutFinal2_114
+  - first:
+      213: 3389950575302920127
+    second: MamutFinal2_115
+  - first:
+      213: -4477725382261776087
+    second: MamutFinal2_116
+  - first:
+      213: 9050734316591248684
+    second: MamutFinal2_117
+  - first:
+      213: -2596802957632214189
+    second: MamutFinal2_118
+  - first:
+      213: -5692571819955116537
+    second: MamutFinal2_119
+  - first:
+      213: -3098329399257276235
+    second: MamutFinal2_120
+  - first:
+      213: -2405008817553781008
+    second: MamutFinal2_121
+  - first:
+      213: -2779633783001396519
+    second: MamutFinal2_122
+  - first:
+      213: 4985730850833512733
+    second: MamutFinal2_123
+  - first:
+      213: -550192963763649361
+    second: MamutFinal2_124
+  - first:
+      213: -2089602538782115611
+    second: MamutFinal2_125
+  - first:
+      213: 4871800691600081756
+    second: MamutFinal2_126
+  - first:
+      213: 8332052182211968824
+    second: MamutFinal2_127
+  - first:
+      213: 8132474433262475487
+    second: MamutFinal2_128
+  - first:
+      213: 8270906062393455475
+    second: MamutFinal2_129
+  - first:
+      213: 3958120708433262286
+    second: MamutFinal2_130
+  - first:
+      213: -8760006983019655751
+    second: MamutFinal2_131
+  - first:
+      213: -4587647672973632508
+    second: MamutFinal2_132
+  - first:
+      213: -5120136565904095021
+    second: MamutFinal2_133
+  - first:
+      213: 8474177758038162185
+    second: MamutFinal2_134
+  - first:
+      213: 8240955846877926514
+    second: MamutFinal2_135
+  - first:
+      213: -8225657276923541154
+    second: MamutFinal2_136
+  - first:
+      213: -3766311460190191151
+    second: MamutFinal2_137
+  - first:
+      213: 3092122477255711686
+    second: MamutFinal2_138
+  - first:
+      213: 6244599493679084809
+    second: MamutFinal2_139
+  - first:
+      213: -2209651010471746734
+    second: MamutFinal2_140
+  - first:
+      213: 8350122531729759078
+    second: MamutFinal2_141
+  - first:
+      213: -6513698100083911877
+    second: MamutFinal2_142
+  - first:
+      213: 472773884595920848
+    second: MamutFinal2_143
+  - first:
+      213: 9092320188337427889
+    second: MamutFinal2_144
+  - first:
+      213: 6750716567536953096
+    second: MamutFinal2_145
+  - first:
+      213: 6925581613233117881
+    second: MamutFinal2_146
+  - first:
+      213: -7397111951977362733
+    second: MamutFinal2_147
+  - first:
+      213: 4229371094484241627
+    second: MamutFinal2_148
+  - first:
+      213: -5727878570364876433
+    second: MamutFinal2_149
+  - first:
+      213: 4766636800789727646
+    second: MamutFinal2_150
+  - first:
+      213: 6631800904253922950
+    second: MamutFinal2_151
+  - first:
+      213: -4674175244650023473
+    second: MamutFinal2_152
+  - first:
+      213: 3271896632161940234
+    second: MamutFinal2_153
+  - first:
+      213: -5839708659687149664
+    second: MamutFinal2_154
+  - first:
+      213: 2302354724879500570
+    second: MamutFinal2_155
+  - first:
+      213: 4458359955492244986
+    second: MamutFinal2_156
+  - first:
+      213: -8736678753112484491
+    second: MamutFinal2_157
+  - first:
+      213: -6415871274006673815
+    second: MamutFinal2_158
+  - first:
+      213: -1538171708432974400
+    second: MamutFinal2_159
+  - first:
+      213: 1765958680503162932
+    second: MamutFinal2_160
+  - first:
+      213: 8230947714392004076
+    second: MamutFinal2_161
+  - first:
+      213: 7177695362464773218
+    second: MamutFinal2_162
+  - first:
+      213: 5544913320381238833
+    second: MamutFinal2_163
+  - first:
+      213: 3196530533947480153
+    second: MamutFinal2_164
+  - first:
+      213: -8506167213908609985
+    second: MamutFinal2_165
+  - first:
+      213: 256111216226065343
+    second: MamutFinal2_166
+  - first:
+      213: 1984119879293645151
+    second: MamutFinal2_167
+  - first:
+      213: 3944949796379892178
+    second: MamutFinal2_168
+  - first:
+      213: -7879670765343240245
+    second: MamutFinal2_169
+  - first:
+      213: -280339576809126550
+    second: MamutFinal2_170
+  - first:
+      213: 4174654947490005186
+    second: MamutFinal2_171
+  - first:
+      213: 8919284705191632099
+    second: MamutFinal2_172
+  - first:
+      213: -263938266737701961
+    second: MamutFinal2_173
+  - first:
+      213: -3375511128892415713
+    second: MamutFinal2_174
+  - first:
+      213: -5378002258631304629
+    second: MamutFinal2_175
+  - first:
+      213: -924013844395024043
+    second: MamutFinal2_176
+  - first:
+      213: 2261715032039351969
+    second: MamutFinal2_177
+  - first:
+      213: 465303064071204958
+    second: MamutFinal2_178
+  - first:
+      213: 320079274735647975
+    second: MamutFinal2_179
+  - first:
+      213: 2855314584268093432
+    second: MamutFinal2_180
+  - first:
+      213: 8177766017623412548
+    second: MamutFinal2_181
+  - first:
+      213: -7188390813602133539
+    second: MamutFinal2_182
+  - first:
+      213: 6789957156969960537
+    second: MamutFinal2_183
+  - first:
+      213: 5882388402890219903
+    second: MamutFinal2_184
+  - first:
+      213: 6399798188124077432
+    second: MamutFinal2_185
+  - first:
+      213: 3847649673787472110
+    second: MamutFinal2_186
+  - first:
+      213: -5665313345693899372
+    second: MamutFinal2_187
+  - first:
+      213: 823143198509717957
+    second: MamutFinal2_188
+  - first:
+      213: 6127780539413993686
+    second: MamutFinal2_189
+  - first:
+      213: -8851444721536599371
+    second: MamutFinal2_190
+  - first:
+      213: 8730541371777268387
+    second: MamutFinal2_191
+  - first:
+      213: -3434488684534094812
+    second: MamutFinal2_192
+  - first:
+      213: 3181654565228413811
+    second: MamutFinal2_193
+  - first:
+      213: 8880443718542924579
+    second: MamutFinal2_194
+  - first:
+      213: -6498878625700909112
+    second: MamutFinal2_195
+  - first:
+      213: 3032878287002146086
+    second: MamutFinal2_196
+  - first:
+      213: -3191064881389102501
+    second: MamutFinal2_197
+  - first:
+      213: -2861116144939767509
+    second: MamutFinal2_198
+  - first:
+      213: -7664720038546714780
+    second: MamutFinal2_199
+  - first:
+      213: -5652626643098508593
+    second: MamutFinal2_200
+  - first:
+      213: -6777815918160877074
+    second: MamutFinal2_201
+  - first:
+      213: 4830778897978001788
+    second: MamutFinal2_202
+  - first:
+      213: -1188270503908786858
+    second: MamutFinal2_203
+  - first:
+      213: -1671665429130784869
+    second: MamutFinal2_204
+  - first:
+      213: 3582328704082675163
+    second: MamutFinal2_205
+  - first:
+      213: 1315830839791179717
+    second: MamutFinal2_206
+  - first:
+      213: 6256648214333362442
+    second: MamutFinal2_207
+  - first:
+      213: -7421742941438169999
+    second: MamutFinal2_208
+  - first:
+      213: -8993613294938176984
+    second: MamutFinal2_209
+  - first:
+      213: 8202991101408303744
+    second: MamutFinal2_210
+  - first:
+      213: 1548188134921805257
+    second: MamutFinal2_211
+  - first:
+      213: -5698301421018872329
+    second: MamutFinal2_212
+  - first:
+      213: -3778081917533611611
+    second: MamutFinal2_213
+  - first:
+      213: 61400008056908878
+    second: MamutFinal2_214
+  - first:
+      213: -879351276378424717
+    second: MamutFinal2_215
+  - first:
+      213: -139616109146790760
+    second: MamutFinal2_216
+  - first:
+      213: -699001809797198596
+    second: MamutFinal2_217
+  - first:
+      213: 4944924029008088381
+    second: MamutFinal2_218
+  - first:
+      213: 2371505459524100848
+    second: MamutFinal2_219
+  - first:
+      213: 352693902582237740
+    second: MamutFinal2_220
+  - first:
+      213: 8698190616095540406
+    second: MamutFinal2_221
+  - first:
+      213: -3974276621412188740
+    second: MamutFinal2_222
+  - first:
+      213: -5719764641051658989
+    second: MamutFinal2_223
+  - first:
+      213: 5918506690709066575
+    second: MamutFinal2_224
+  - first:
+      213: -9059890807596106271
+    second: MamutFinal2_225
+  - first:
+      213: 2219265286798025802
+    second: MamutFinal2_226
+  - first:
+      213: 4136414840720843280
+    second: MamutFinal2_227
+  - first:
+      213: 7481843850928704699
+    second: MamutFinal2_228
+  - first:
+      213: 967458515024380609
+    second: MamutFinal2_229
+  - first:
+      213: -2114712499815993580
+    second: MamutFinal2_230
+  - first:
+      213: -1313282189449224041
+    second: MamutFinal2_231
+  - first:
+      213: -7828504778250501365
+    second: MamutFinal2_232
+  - first:
+      213: 2984987590868496029
+    second: MamutFinal2_233
+  - first:
+      213: -4949517030108741740
+    second: MamutFinal2_234
+  - first:
+      213: -1448175946574457289
+    second: MamutFinal2_235
+  - first:
+      213: -6438755048374272512
+    second: MamutFinal2_236
+  - first:
+      213: 7210813840391847110
+    second: MamutFinal2_237
+  - first:
+      213: -3020290415113658145
+    second: MamutFinal2_238
+  - first:
+      213: 4129372917515632605
+    second: MamutFinal2_239
+  - first:
+      213: -4578257498317111994
+    second: MamutFinal2_240
+  - first:
+      213: 1049012948582104524
+    second: MamutFinal2_241
+  - first:
+      213: -1505785147182895271
+    second: MamutFinal2_242
+  - first:
+      213: -4878882454420049732
+    second: MamutFinal2_243
+  - first:
+      213: 7283387139045537860
+    second: MamutFinal2_244
+  - first:
+      213: -3306775863211908349
+    second: MamutFinal2_245
+  - first:
+      213: -5545483415162098823
+    second: MamutFinal2_246
+  - first:
+      213: -5606731265271911104
+    second: MamutFinal2_247
+  - first:
+      213: 1152607702127333962
+    second: MamutFinal2_248
+  - first:
+      213: -7604681668349535823
+    second: MamutFinal2_249
+  - first:
+      213: 4543460151355037848
+    second: MamutFinal2_250
+  - first:
+      213: -320332949693157672
+    second: MamutFinal2_251
+  - first:
+      213: 4950927442897522455
+    second: MamutFinal2_252
+  - first:
+      213: 9020999995945966798
+    second: MamutFinal2_253
+  - first:
+      213: -3078879807179973229
+    second: MamutFinal2_254
+  - first:
+      213: -6748053590820586515
+    second: MamutFinal2_255
+  - first:
+      213: -304883154422797604
+    second: MamutFinal2_256
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MamutFinal2_0
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1085
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 059ddf46133a89850800000000000000
+      internalID: 6384031904340760912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_1
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1091
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc7efa70b16f8ca0800000000000000
+      internalID: -6012479566910686025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_2
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1091
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238ee6cb32de1ae20800000000000000
+      internalID: 3360227534736123954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_3
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1091
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458b217105cd80c10800000000000000
+      internalID: 2020106669418264660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_4
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1088
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b283fc32d362e33d0800000000000000
+      internalID: -3225098239115053013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_5
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1091
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8dca876d1de3a30800000000000000
+      internalID: 4197022621833681107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_6
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1091
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e880d913ba8d9cde0800000000000000
+      internalID: -1312279586618406770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_7
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 1081
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8beca723e8583ea10800000000000000
+      internalID: 1937539110478204600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_8
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1091
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c80b770273c629e0800000000000000
+      internalID: -1646413719238145851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_9
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1091
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d891e5574d9e80490800000000000000
+      internalID: -7779711257571092083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_10
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 1091
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a87632a4a07f8c80800000000000000
+      internalID: -8318306134331590495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_11
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 1081
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbf43f340f1e5540800000000000000
+      internalID: 4998466739528596477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_12
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1091
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a1bf23b14506180800000000000000
+      internalID: -9124200369256457643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_13
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1085
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffa8908b4a070f00800000000000000
+      internalID: 1082845554802208758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_14
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1081
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75abf390fe4e626d0800000000000000
+      internalID: -3015471185174480297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_15
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1075
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0d7d9f43dfcfb10800000000000000
+      internalID: 2016765137126936797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_16
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1081
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf2d8610ce0f1510800000000000000
+      internalID: 1521951417249378250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_17
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1081
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82dabfb99393374e0800000000000000
+      internalID: -1985180091147375320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_18
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1075
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f784999d9e64720800000000000000
+      internalID: 2830206536637775750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_19
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1081
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8404146abbc344c20800000000000000
+      internalID: 3189741212730998856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_20
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1081
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90567e14469b4be0800000000000000
+      internalID: -1491933632230174561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_21
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1072
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d153e466b9c2b250800000000000000
+      internalID: 5959047042178437592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_22
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1075
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d473f141f330d1d0800000000000000
+      internalID: -3328103013340187434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_23
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1081
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14f303f6a1e9852d0800000000000000
+      internalID: -3289705691422376127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_24
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1075
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80671c3f0fa983fe0800000000000000
+      internalID: -1209046140276607480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_25
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1078
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf845aa635d9e420800000000000000
+      internalID: 2659891485701607349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_26
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1081
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5c2e66ec4ab92620800000000000000
+      internalID: 2749933886932659292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_27
+      rect:
+        serializedVersion: 2
+        x: 1373
+        y: 1081
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31e34787507248470800000000000000
+      internalID: 8395878509774650899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_28
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 1078
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdc46c405830c820800000000000000
+      internalID: 2936408874575777214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_29
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 1081
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1844ae88d91dae290800000000000000
+      internalID: -7860239725084654463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_30
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 1075
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ebccd4c0fe21170800000000000000
+      internalID: 8147837511990558336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_31
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 1075
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59340ebc5f7f1570800000000000000
+      internalID: 8439604263017265503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_32
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1075
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1193adc361ebbd2b0800000000000000
+      internalID: -5558640312339252975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_33
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 1081
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d4d3b662788b400800000000000000
+      internalID: 340170370944159081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_34
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 1075
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc3f2fada04253ce0800000000000000
+      internalID: -1426194077951265843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 1068
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f02b05005f5e52e0800000000000000
+      internalID: -2135164376040398601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_36
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1071
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab230612004b40690800000000000000
+      internalID: -7636781155460566342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_37
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1068
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57cdbc1c5a25b6d00800000000000000
+      internalID: 966957416875547765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_38
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1071
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4b16bcecaf39bdb0800000000000000
+      internalID: -4775715917911418037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_39
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 1071
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213886b81d87bb950800000000000000
+      internalID: 6465894531402859282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_40
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1065
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efaa24cae5757f3c0800000000000000
+      internalID: -4325892852937479426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_41
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1071
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7382c3a78b620700800000000000000
+      internalID: 505084338531107706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_42
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 1065
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df1737dbfbe739590800000000000000
+      internalID: -7668646378499509763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_43
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 1071
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d00fab871a5ec40800000000000000
+      internalID: 5541012456453705055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_44
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 1065
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4b0cf0fa7516b80800000000000000
+      internalID: -8403339020301454128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_45
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1071
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 346a98d549e441f60800000000000000
+      internalID: 8004108836875642435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_46
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1056
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d043837ca252b70800000000000000
+      internalID: 8873545675933224297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_47
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1056
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb4fb101fd015b290800000000000000
+      internalID: -7875369823153425220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_48
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1059
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5802b7e820e1710800000000000000
+      internalID: 1665771723148002800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_49
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1052
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ca10ce607abb1440800000000000000
+      internalID: 4907721211007474374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_50
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1059
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dc478c267149bc0800000000000000
+      internalID: -3777368474419671779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_51
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1059
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4d8e23a7b546170800000000000000
+      internalID: 8170756204355179747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_52
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 1059
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a7a1a04082a45850800000000000000
+      internalID: 6364890845105203105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_53
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1059
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83431aa1da11334c0800000000000000
+      internalID: -4309080983289646024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_54
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 1059
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1702d28b817a070800000000000000
+      internalID: 8117484032668758508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_55
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1059
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abe8d6db8c510e10800000000000000
+      internalID: 2162111051789298600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_56
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 1052
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5ec95573ede9c8f0800000000000000
+      internalID: -519622720802402725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_57
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1056
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bea9b81bf23aa1b40800000000000000
+      internalID: 5411817327476579051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_58
+      rect:
+        serializedVersion: 2
+        x: 1353
+        y: 1062
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17a65b4b7096a4120800000000000000
+      internalID: 2398845233345686129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_59
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 1056
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9762e0089d1903f70800000000000000
+      internalID: 9164985605041301113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_60
+      rect:
+        serializedVersion: 2
+        x: 1404
+        y: 1059
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 262079a7d66c5ee80800000000000000
+      internalID: -8149889777146592670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_61
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1056
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ddac894c79913d80800000000000000
+      internalID: -8272662281413939754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_62
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1059
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469913c913e94e7d0800000000000000
+      internalID: -2890011124953933468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_63
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1046
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9096ae34e347930800000000000000
+      internalID: 4140002418876811714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_64
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1052
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40dfc4feb5b01f240800000000000000
+      internalID: 4823649165375241476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_65
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 1052
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c57befa8b171ce6c0800000000000000
+      internalID: -4112886952632600740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_66
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1047
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64175da4f97c92a40800000000000000
+      internalID: 5344021919821033798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_67
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1052
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66026733f1790eb0800000000000000
+      internalID: -4753142642292685205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_68
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 1052
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfce9514de71de10800000000000000
+      internalID: 2220695540631261149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_69
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1052
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9929cb946cbe13270800000000000000
+      internalID: 8228617231055753881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_70
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1050
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c6a6689284850470800000000000000
+      internalID: 8360233979720672966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_71
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 1052
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdd026d1e4f50420800000000000000
+      internalID: 2595750011046256055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_72
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1052
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc136d352fc0f5d30800000000000000
+      internalID: 4422267594029281741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_73
+      rect:
+        serializedVersion: 2
+        x: 1491
+        y: 1046
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c26e2fd4263b1c0800000000000000
+      internalID: -4489136316631077759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_74
+      rect:
+        serializedVersion: 2
+        x: 1660
+        y: 1046
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ee64367eafab9940800000000000000
+      internalID: 5304026150001209057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_75
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1046
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a70ff558611da520800000000000000
+      internalID: 2714845290191325090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_76
+      rect:
+        serializedVersion: 2
+        x: 1819
+        y: 1052
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e61fd48ca86bec50800000000000000
+      internalID: 6695560361189250784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_77
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1037
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b211127f7002190800000000000000
+      internalID: -7989376980962169993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_78
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 329
+        width: 1321
+        height: 716
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6d05377fa8a3a80800000000000000
+      internalID: -8486317752430045526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_79
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1042
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8abe23ec5c9d5e5a0800000000000000
+      internalID: -6492543844193473624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_80
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1042
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc782a9b85125040800000000000000
+      internalID: 4634790655848643764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_81
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1042
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c77bebde04673e0800000000000000
+      internalID: -2056384789996930024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_82
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1042
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd6360c888467800800000000000000
+      internalID: 609754551735774647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_83
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1040
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6921b240b70df3030800000000000000
+      internalID: 3476726664122798742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_84
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1040
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a010faf5aa4cc2410800000000000000
+      internalID: 1453753015762616586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_85
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1040
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7baf08bf8c4dee30800000000000000
+      internalID: 4534364579984026491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_86
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1042
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4289bb5c91bd46d60800000000000000
+      internalID: 7882666151543281700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_87
+      rect:
+        serializedVersion: 2
+        x: 1292
+        y: 1040
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de12cf0860dfb670800000000000000
+      internalID: 8556786962386788048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_88
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 1034
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdc7f9410e4509f0800000000000000
+      internalID: -502910015939031606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_89
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 1027
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d11dce3dbc980b0800000000000000
+      internalID: -5725821340153209473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_90
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 1017
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bc13739293f292e0800000000000000
+      internalID: -2120364663673512779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_91
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 1001
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60065c01553ecaf30800000000000000
+      internalID: 4588292074876788742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_92
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 999
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdf875838be214f0800000000000000
+      internalID: -859365628761801296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_93
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 985
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45451048923fe6280800000000000000
+      internalID: -9048027241706859436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_94
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 976
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff827147afff5c4d0800000000000000
+      internalID: -3114802116102248193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_95
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 985
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66be1a23724681ba0800000000000000
+      internalID: -6118029974266844314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_96
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 976
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6515abdb350c580800000000000000
+      internalID: -8808948796796873022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_97
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 957
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d54c634293f765810800000000000000
+      internalID: 1753728988304819293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_98
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 963
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c64430250ea87460800000000000000
+      internalID: 7239727738036438722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_99
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 963
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2af2ba31b7b3b490800000000000000
+      internalID: -7731634163443107284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_100
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 950
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3df7d2491ff00850800000000000000
+      internalID: 6341348759298374975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_101
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 938
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469b583af1d851b0800000000000000
+      internalID: -5667549258428213683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_102
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 928
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ae07ad8a2f3f4a0800000000000000
+      internalID: -6560633425115420045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_103
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 924
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2e34f96fa00f4c0800000000000000
+      internalID: -4255889593514859798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_104
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 922
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf8d6889bcc59e400800000000000000
+      internalID: 353916075232385275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_105
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 928
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c6b23326cd36d70800000000000000
+      internalID: 9035307591758736486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_106
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 905
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d643b3513a0f0d160800000000000000
+      internalID: 7048398000061363309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_107
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 909
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2a6ae28a16857d0800000000000000
+      internalID: -2929484182639435029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_108
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 896
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50fa2d21a0281cd0800000000000000
+      internalID: -2587282109304737699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_109
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 887
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8217b9fc1bb83a140800000000000000
+      internalID: 4729777629477695784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_110
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 889
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d5df98c807cf690800000000000000
+      internalID: -7567049524976460394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_111
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 873
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59330276b830a050800000000000000
+      internalID: 5809705875555957084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_112
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 880
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca189933084d08e0800000000000000
+      internalID: -1725643903524660531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_113
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 880
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0187b9f291f26bca0800000000000000
+      internalID: -6001557668205201392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_114
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 880
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda50fb4e3c975140800000000000000
+      internalID: 4708403726815091423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_115
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 871
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7cf0766168b0f20800000000000000
+      internalID: 3389950575302920127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_116
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 867
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92169842d7cebd1c0800000000000000
+      internalID: -4477725382261776087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_117
+      rect:
+        serializedVersion: 2
+        x: 1788
+        y: 864
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c25fbd878eaaa9d70800000000000000
+      internalID: 9050734316591248684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_118
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 857
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35be5aee77d46fbd0800000000000000
+      internalID: -2596802957632214189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_119
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 854
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7062d2d171ceff0b0800000000000000
+      internalID: -5692571819955116537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_120
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 851
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0ee18b3d58005d0800000000000000
+      internalID: -3098329399257276235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_121
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 851
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe46040931bf9ed0800000000000000
+      internalID: -2405008817553781008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_122
+      rect:
+        serializedVersion: 2
+        x: 1752
+        y: 845
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dac68e2dc1cc69d0800000000000000
+      internalID: -2779633783001396519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_123
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 845
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1933a51bcfd03540800000000000000
+      internalID: 4985730850833512733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_124
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 832
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4c2fc1a625d58f0800000000000000
+      internalID: -550192963763649361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_125
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 826
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e8332aef8d3003e0800000000000000
+      internalID: -2089602538782115611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_126
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 816
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c534357caec1c9340800000000000000
+      internalID: 4871800691600081756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_127
+      rect:
+        serializedVersion: 2
+        x: 1768
+        y: 813
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f33ca805561a370800000000000000
+      internalID: 8332052182211968824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_128
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 800
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd85e8bc86a5cd070800000000000000
+      internalID: 8132474433262475487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_129
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 797
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373369b1e3928c270800000000000000
+      internalID: 8270906062393455475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_130
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 803
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6384430d11ee630800000000000000
+      internalID: 3958120708433262286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_131
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 803
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd0c2bbf043e6680800000000000000
+      internalID: -8760006983019655751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_132
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 790
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40c52c17fb66550c0800000000000000
+      internalID: -4587647672973632508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_133
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 777
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d84cc3cbee91f8b0800000000000000
+      internalID: -5120136565904095021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_134
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 777
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b7167d5c35a9570800000000000000
+      internalID: 8474177758038162185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_135
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 762
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27456d62ea1cd5270800000000000000
+      internalID: 8240955846877926514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_136
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 755
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e598ddcb94898dd80800000000000000
+      internalID: -8225657276923541154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_137
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 726
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d181e58eaf5bbbc0800000000000000
+      internalID: -3766311460190191151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_138
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 733
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cbd3d2a20d69ea20800000000000000
+      internalID: 3092122477255711686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_139
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 714
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9057359772649a650800000000000000
+      internalID: 6244599493679084809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_140
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 714
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253af3bfc1eb551e0800000000000000
+      internalID: -2209651010471746734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_141
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 701
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bdcb6a33891e370800000000000000
+      internalID: 8350122531729759078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_142
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 701
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b339c5ac612ba95a0800000000000000
+      internalID: -6513698100083911877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_143
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 694
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfdb6ad751af8600800000000000000
+      internalID: 472773884595920848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_144
+      rect:
+        serializedVersion: 2
+        x: 1714
+        y: 682
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b517f1c9096e2e70800000000000000
+      internalID: 9092320188337427889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_145
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 665
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807626b83fc5fad50800000000000000
+      internalID: 6750716567536953096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_146
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 663
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ba9cbfa8cb9c1060800000000000000
+      internalID: 6925581613233117881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_147
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 667
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dac79a0fdd285990800000000000000
+      internalID: -7397111951977362733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_148
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 653
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcc90e2a9eb1ba30800000000000000
+      internalID: 4229371094484241627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_149
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 647
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6944d0b9cc7280b0800000000000000
+      internalID: -5727878570364876433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_150
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 649
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9940646aee762240800000000000000
+      internalID: 4766636800789727646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_151
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 640
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e5b2f19c3e80c50800000000000000
+      internalID: 6631800904253922950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_152
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 631
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5f5bc316ef12fb0800000000000000
+      internalID: -4674175244650023473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_153
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 618
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a033fc5d6ac186d20800000000000000
+      internalID: 3271896632161940234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_154
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 608
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af23930aef25fea0800000000000000
+      internalID: -5839708659687149664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_155
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1582638c6b93ff10800000000000000
+      internalID: 2302354724879500570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_156
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 589
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd01f312c64fdd30800000000000000
+      internalID: 4458359955492244986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_157
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 589
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575170486f411c680800000000000000
+      internalID: -8736678753112484491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_158
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 596
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966033ca11f36f6a0800000000000000
+      internalID: -6415871274006673815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_159
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 576
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cdfb431bf057aae0800000000000000
+      internalID: -1538171708432974400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_160
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 561
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438986f3012f18810800000000000000
+      internalID: 1765958680503162932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_161
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 567
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5162936533a3270800000000000000
+      internalID: 8230947714392004076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_162
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 547
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2647ea137eb4c9360800000000000000
+      internalID: 7177695362464773218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_163
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 547
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ec7a3694d73fc40800000000000000
+      internalID: 5544913320381238833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_164
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 547
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95811ada59b5c5c20800000000000000
+      internalID: 3196530533947480153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_165
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 553
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3437ee8cf504f980800000000000000
+      internalID: -8506167213908609985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_166
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 538
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbd5225bc3ed8300800000000000000
+      internalID: 256111216226065343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_167
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 541
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f51b6159482098b10800000000000000
+      internalID: 1984119879293645151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_168
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 532
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d919f540f64fb630800000000000000
+      internalID: 3944949796379892178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_169
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 531
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf8facef29c5a290800000000000000
+      internalID: -7879670765343240245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_170
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 532
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a650fc3e3a80c1cf0800000000000000
+      internalID: -280339576809126550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_171
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 532
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c008f47e8a5fe930800000000000000
+      internalID: 4174654947490005186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_172
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 512
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec9587de2aa7cb70800000000000000
+      internalID: 8919284705191632099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_173
+      rect:
+        serializedVersion: 2
+        x: 1704
+        y: 518
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bb87787b8d465cf0800000000000000
+      internalID: -263938266737701961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_174
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 490
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f116df23386c721d0800000000000000
+      internalID: -3375511128892415713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_175
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 494
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a580d807f7d55b0800000000000000
+      internalID: -5378002258631304629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_176
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 481
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551aa4ddd4e3d23f0800000000000000
+      internalID: -924013844395024043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_177
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 484
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6eddba6d9336f10800000000000000
+      internalID: 2261715032039351969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_178
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 484
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e507dd6eba6157600800000000000000
+      internalID: 465303064071204958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_179
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 471
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec359e8766217400800000000000000
+      internalID: 320079274735647975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_180
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 468
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7ba4d7c7d10a720800000000000000
+      internalID: 2855314584268093432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_181
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 474
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f44b88dd24d7170800000000000000
+      internalID: 8177766017623412548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_182
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 471
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9409804a4bd3c90800000000000000
+      internalID: -7188390813602133539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_183
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 451
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954d05d3f06ca3e50800000000000000
+      internalID: 6789957156969960537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_184
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 451
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f712621161172a150800000000000000
+      internalID: 5882388402890219903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_185
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 420
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87df2556b86a0d850800000000000000
+      internalID: 6399798188124077432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_186
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 407
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee8ff3a1ef8956530800000000000000
+      internalID: 3847649673787472110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_187
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 413
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 495a2a83783c061b0800000000000000
+      internalID: -5665313345693899372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_188
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 420
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9537ab0646c6b00800000000000000
+      internalID: 823143198509717957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_189
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 420
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d892592fef3a0550800000000000000
+      internalID: 6127780539413993686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_190
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 407
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bafdc73ce9592580800000000000000
+      internalID: -8851444721536599371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_191
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 398
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aab2a90f1d192970800000000000000
+      internalID: 8730541371777268387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_192
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 400
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4242f35fcbe3650d0800000000000000
+      internalID: -3434488684534094812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_193
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 394
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373807e48f1872c20800000000000000
+      internalID: 3181654565228413811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_194
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 400
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b999be28cad3b70800000000000000
+      internalID: 8880443718542924579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_195
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 391
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cfe7bc82585fc5a0800000000000000
+      internalID: -6498878625700909112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_196
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 382
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62512cfabb2f61a20800000000000000
+      internalID: 3032878287002146086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_197
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 379
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a1499b56f07b3d0800000000000000
+      internalID: -3191064881389102501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_198
+      rect:
+        serializedVersion: 2
+        x: 1708
+        y: 375
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29eab766064b48d0800000000000000
+      internalID: -2861116144939767509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_199
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 382
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fca9ffbb171a590800000000000000
+      internalID: -7664720038546714780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_200
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 365
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2643a5406dd81b0800000000000000
+      internalID: -5652626643098508593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_201
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 372
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee96805355c50f1a0800000000000000
+      internalID: -6777815918160877074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_202
+      rect:
+        serializedVersion: 2
+        x: 1711
+        y: 365
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c798e6a20df5a0340800000000000000
+      internalID: 4830778897978001788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_203
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 359
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d317db54a628fe0800000000000000
+      internalID: -1188270503908786858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_204
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 353
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fcb59262d0dc8e0800000000000000
+      internalID: -1671665429130784869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_205
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 343
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd58883f9fcf6b130800000000000000
+      internalID: 3582328704082675163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_206
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 347
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7d14e5d25c24210800000000000000
+      internalID: 1315830839791179717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_207
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 349
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a011cebd66414d650800000000000000
+      internalID: 6256648214333362442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_208
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 347
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17ca059ed1ca00990800000000000000
+      internalID: -7421742941438169999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_209
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 339
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822caf3cb54403380800000000000000
+      internalID: -8993613294938176984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_210
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 324
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ad12702f0e6d170800000000000000
+      internalID: 8202991101408303744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_211
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 337
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cd1d73f7e44c7510800000000000000
+      internalID: 1548188134921805257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_212
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 333
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f501196c019be0b0800000000000000
+      internalID: -5698301421018872329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_213
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 339
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9151d538e819bc0800000000000000
+      internalID: -3778081917533611611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_214
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 335
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c20756bf22ad000800000000000000
+      internalID: 61400008056908878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_215
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 324
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a7da25caaebc3f0800000000000000
+      internalID: -879351276378424717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_216
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 331
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 894226173ebff0ef0800000000000000
+      internalID: -139616109146790760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_217
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 331
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfccea5be85ac46f0800000000000000
+      internalID: -699001809797198596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_218
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 321
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d025e7436ef9440800000000000000
+      internalID: 4944924029008088381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_219
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 324
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f265d196a749e020800000000000000
+      internalID: 2371505459524100848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_220
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 327
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a4cd95c3505e400800000000000000
+      internalID: 352693902582237740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_221
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 323
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4c205c74e26b870800000000000000
+      internalID: 8698190616095540406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_222
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 323
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd369d287888d8c0800000000000000
+      internalID: -3974276621412188740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_223
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 324
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315b6431d505f90b0800000000000000
+      internalID: -5719764641051658989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_224
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 323
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f439c744a72c22250800000000000000
+      internalID: 5918506690709066575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_225
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 327
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed3865df4dc44280800000000000000
+      internalID: -9059890807596106271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_226
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 323
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44a3f9250a6cce10800000000000000
+      internalID: 2219265286798025802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_227
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 323
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 012e1d8c16f776930800000000000000
+      internalID: 4136414840720843280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_228
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 324
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbccb878759d4d760800000000000000
+      internalID: 7481843850928704699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_229
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 323
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c284f2c46a1d6d00800000000000000
+      internalID: 967458515024380609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_230
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 327
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41fa3668f2807a2e0800000000000000
+      internalID: -2114712499815993580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_231
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 324
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79028088ec846cde0800000000000000
+      internalID: -1313282189449224041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_232
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 327
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b034ee1a1609b5390800000000000000
+      internalID: -7828504778250501365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_233
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 323
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9e6aa4166ecc6920800000000000000
+      internalID: 2984987590868496029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_234
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 324
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f3f9a1c78cf4bb0800000000000000
+      internalID: -4949517030108741740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_235
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 323
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7361a2c36ab07ebe0800000000000000
+      internalID: -1448175946574457289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_236
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 321
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ef5e1c562f4a6a0800000000000000
+      internalID: -6438755048374272512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_237
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 327
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccb60abbf4f11460800000000000000
+      internalID: 7210813840391847110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_238
+      rect:
+        serializedVersion: 2
+        x: 1222
+        y: 324
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd022a0aed5c516d0800000000000000
+      internalID: -3020290415113658145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_239
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 321
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf33a54aca7e4930800000000000000
+      internalID: 4129372917515632605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_240
+      rect:
+        serializedVersion: 2
+        x: 1299
+        y: 327
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d3a8adf03c670c0800000000000000
+      internalID: -4578257498317111994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_241
+      rect:
+        serializedVersion: 2
+        x: 1332
+        y: 327
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd750508b7de8e00800000000000000
+      internalID: 1049012948582104524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_242
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 323
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95faa1af2606a1be0800000000000000
+      internalID: -1505785147182895271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_243
+      rect:
+        serializedVersion: 2
+        x: 1472
+        y: 324
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb03863d14aba4cb0800000000000000
+      internalID: -4878882454420049732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_244
+      rect:
+        serializedVersion: 2
+        x: 1520
+        y: 324
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4483570930ac31560800000000000000
+      internalID: 7283387139045537860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_245
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 327
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3032b695fd8fb12d0800000000000000
+      internalID: -3306775863211908349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_246
+      rect:
+        serializedVersion: 2
+        x: 1577
+        y: 324
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b6173173c7a03b0800000000000000
+      internalID: -5545483415162098823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_247
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 324
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d2466be93e032b0800000000000000
+      internalID: -5606731265271911104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_248
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 323
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42ddaa2992eeff00800000000000000
+      internalID: 1152607702127333962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_249
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 321
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9d910605eb67690800000000000000
+      internalID: -7604681668349535823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_250
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 324
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898d8a47fec9d0f30800000000000000
+      internalID: 4543460151355037848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_251
+      rect:
+        serializedVersion: 2
+        x: 1673
+        y: 321
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8deafa321e2fd8bf0800000000000000
+      internalID: -320332949693157672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_252
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 331
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fc3a6374a35b440800000000000000
+      internalID: 4950927442897522455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_253
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 321
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccd82573b7013d70800000000000000
+      internalID: 9020999995945966798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_254
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 316
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d1ae2c02f9545d0800000000000000
+      internalID: -3078879807179973229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_255
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 317
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debf6d903091a52a0800000000000000
+      internalID: -6748053590820586515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MamutFinal2_256
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 316
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdae0aae266d4cbf0800000000000000
+      internalID: -304883154422797604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      MamutFinal2_0: 6384031904340760912
+      MamutFinal2_1: -6012479566910686025
+      MamutFinal2_10: -8318306134331590495
+      MamutFinal2_100: 6341348759298374975
+      MamutFinal2_101: -5667549258428213683
+      MamutFinal2_102: -6560633425115420045
+      MamutFinal2_103: -4255889593514859798
+      MamutFinal2_104: 353916075232385275
+      MamutFinal2_105: 9035307591758736486
+      MamutFinal2_106: 7048398000061363309
+      MamutFinal2_107: -2929484182639435029
+      MamutFinal2_108: -2587282109304737699
+      MamutFinal2_109: 4729777629477695784
+      MamutFinal2_11: 4998466739528596477
+      MamutFinal2_110: -7567049524976460394
+      MamutFinal2_111: 5809705875555957084
+      MamutFinal2_112: -1725643903524660531
+      MamutFinal2_113: -6001557668205201392
+      MamutFinal2_114: 4708403726815091423
+      MamutFinal2_115: 3389950575302920127
+      MamutFinal2_116: -4477725382261776087
+      MamutFinal2_117: 9050734316591248684
+      MamutFinal2_118: -2596802957632214189
+      MamutFinal2_119: -5692571819955116537
+      MamutFinal2_12: -9124200369256457643
+      MamutFinal2_120: -3098329399257276235
+      MamutFinal2_121: -2405008817553781008
+      MamutFinal2_122: -2779633783001396519
+      MamutFinal2_123: 4985730850833512733
+      MamutFinal2_124: -550192963763649361
+      MamutFinal2_125: -2089602538782115611
+      MamutFinal2_126: 4871800691600081756
+      MamutFinal2_127: 8332052182211968824
+      MamutFinal2_128: 8132474433262475487
+      MamutFinal2_129: 8270906062393455475
+      MamutFinal2_13: 1082845554802208758
+      MamutFinal2_130: 3958120708433262286
+      MamutFinal2_131: -8760006983019655751
+      MamutFinal2_132: -4587647672973632508
+      MamutFinal2_133: -5120136565904095021
+      MamutFinal2_134: 8474177758038162185
+      MamutFinal2_135: 8240955846877926514
+      MamutFinal2_136: -8225657276923541154
+      MamutFinal2_137: -3766311460190191151
+      MamutFinal2_138: 3092122477255711686
+      MamutFinal2_139: 6244599493679084809
+      MamutFinal2_14: -3015471185174480297
+      MamutFinal2_140: -2209651010471746734
+      MamutFinal2_141: 8350122531729759078
+      MamutFinal2_142: -6513698100083911877
+      MamutFinal2_143: 472773884595920848
+      MamutFinal2_144: 9092320188337427889
+      MamutFinal2_145: 6750716567536953096
+      MamutFinal2_146: 6925581613233117881
+      MamutFinal2_147: -7397111951977362733
+      MamutFinal2_148: 4229371094484241627
+      MamutFinal2_149: -5727878570364876433
+      MamutFinal2_15: 2016765137126936797
+      MamutFinal2_150: 4766636800789727646
+      MamutFinal2_151: 6631800904253922950
+      MamutFinal2_152: -4674175244650023473
+      MamutFinal2_153: 3271896632161940234
+      MamutFinal2_154: -5839708659687149664
+      MamutFinal2_155: 2302354724879500570
+      MamutFinal2_156: 4458359955492244986
+      MamutFinal2_157: -8736678753112484491
+      MamutFinal2_158: -6415871274006673815
+      MamutFinal2_159: -1538171708432974400
+      MamutFinal2_16: 1521951417249378250
+      MamutFinal2_160: 1765958680503162932
+      MamutFinal2_161: 8230947714392004076
+      MamutFinal2_162: 7177695362464773218
+      MamutFinal2_163: 5544913320381238833
+      MamutFinal2_164: 3196530533947480153
+      MamutFinal2_165: -8506167213908609985
+      MamutFinal2_166: 256111216226065343
+      MamutFinal2_167: 1984119879293645151
+      MamutFinal2_168: 3944949796379892178
+      MamutFinal2_169: -7879670765343240245
+      MamutFinal2_17: -1985180091147375320
+      MamutFinal2_170: -280339576809126550
+      MamutFinal2_171: 4174654947490005186
+      MamutFinal2_172: 8919284705191632099
+      MamutFinal2_173: -263938266737701961
+      MamutFinal2_174: -3375511128892415713
+      MamutFinal2_175: -5378002258631304629
+      MamutFinal2_176: -924013844395024043
+      MamutFinal2_177: 2261715032039351969
+      MamutFinal2_178: 465303064071204958
+      MamutFinal2_179: 320079274735647975
+      MamutFinal2_18: 2830206536637775750
+      MamutFinal2_180: 2855314584268093432
+      MamutFinal2_181: 8177766017623412548
+      MamutFinal2_182: -7188390813602133539
+      MamutFinal2_183: 6789957156969960537
+      MamutFinal2_184: 5882388402890219903
+      MamutFinal2_185: 6399798188124077432
+      MamutFinal2_186: 3847649673787472110
+      MamutFinal2_187: -5665313345693899372
+      MamutFinal2_188: 823143198509717957
+      MamutFinal2_189: 6127780539413993686
+      MamutFinal2_19: 3189741212730998856
+      MamutFinal2_190: -8851444721536599371
+      MamutFinal2_191: 8730541371777268387
+      MamutFinal2_192: -3434488684534094812
+      MamutFinal2_193: 3181654565228413811
+      MamutFinal2_194: 8880443718542924579
+      MamutFinal2_195: -6498878625700909112
+      MamutFinal2_196: 3032878287002146086
+      MamutFinal2_197: -3191064881389102501
+      MamutFinal2_198: -2861116144939767509
+      MamutFinal2_199: -7664720038546714780
+      MamutFinal2_2: 3360227534736123954
+      MamutFinal2_20: -1491933632230174561
+      MamutFinal2_200: -5652626643098508593
+      MamutFinal2_201: -6777815918160877074
+      MamutFinal2_202: 4830778897978001788
+      MamutFinal2_203: -1188270503908786858
+      MamutFinal2_204: -1671665429130784869
+      MamutFinal2_205: 3582328704082675163
+      MamutFinal2_206: 1315830839791179717
+      MamutFinal2_207: 6256648214333362442
+      MamutFinal2_208: -7421742941438169999
+      MamutFinal2_209: -8993613294938176984
+      MamutFinal2_21: 5959047042178437592
+      MamutFinal2_210: 8202991101408303744
+      MamutFinal2_211: 1548188134921805257
+      MamutFinal2_212: -5698301421018872329
+      MamutFinal2_213: -3778081917533611611
+      MamutFinal2_214: 61400008056908878
+      MamutFinal2_215: -879351276378424717
+      MamutFinal2_216: -139616109146790760
+      MamutFinal2_217: -699001809797198596
+      MamutFinal2_218: 4944924029008088381
+      MamutFinal2_219: 2371505459524100848
+      MamutFinal2_22: -3328103013340187434
+      MamutFinal2_220: 352693902582237740
+      MamutFinal2_221: 8698190616095540406
+      MamutFinal2_222: -3974276621412188740
+      MamutFinal2_223: -5719764641051658989
+      MamutFinal2_224: 5918506690709066575
+      MamutFinal2_225: -9059890807596106271
+      MamutFinal2_226: 2219265286798025802
+      MamutFinal2_227: 4136414840720843280
+      MamutFinal2_228: 7481843850928704699
+      MamutFinal2_229: 967458515024380609
+      MamutFinal2_23: -3289705691422376127
+      MamutFinal2_230: -2114712499815993580
+      MamutFinal2_231: -1313282189449224041
+      MamutFinal2_232: -7828504778250501365
+      MamutFinal2_233: 2984987590868496029
+      MamutFinal2_234: -4949517030108741740
+      MamutFinal2_235: -1448175946574457289
+      MamutFinal2_236: -6438755048374272512
+      MamutFinal2_237: 7210813840391847110
+      MamutFinal2_238: -3020290415113658145
+      MamutFinal2_239: 4129372917515632605
+      MamutFinal2_24: -1209046140276607480
+      MamutFinal2_240: -4578257498317111994
+      MamutFinal2_241: 1049012948582104524
+      MamutFinal2_242: -1505785147182895271
+      MamutFinal2_243: -4878882454420049732
+      MamutFinal2_244: 7283387139045537860
+      MamutFinal2_245: -3306775863211908349
+      MamutFinal2_246: -5545483415162098823
+      MamutFinal2_247: -5606731265271911104
+      MamutFinal2_248: 1152607702127333962
+      MamutFinal2_249: -7604681668349535823
+      MamutFinal2_25: 2659891485701607349
+      MamutFinal2_250: 4543460151355037848
+      MamutFinal2_251: -320332949693157672
+      MamutFinal2_252: 4950927442897522455
+      MamutFinal2_253: 9020999995945966798
+      MamutFinal2_254: -3078879807179973229
+      MamutFinal2_255: -6748053590820586515
+      MamutFinal2_256: -304883154422797604
+      MamutFinal2_26: 2749933886932659292
+      MamutFinal2_27: 8395878509774650899
+      MamutFinal2_28: 2936408874575777214
+      MamutFinal2_29: -7860239725084654463
+      MamutFinal2_3: 2020106669418264660
+      MamutFinal2_30: 8147837511990558336
+      MamutFinal2_31: 8439604263017265503
+      MamutFinal2_32: -5558640312339252975
+      MamutFinal2_33: 340170370944159081
+      MamutFinal2_34: -1426194077951265843
+      MamutFinal2_35: -2135164376040398601
+      MamutFinal2_36: -7636781155460566342
+      MamutFinal2_37: 966957416875547765
+      MamutFinal2_38: -4775715917911418037
+      MamutFinal2_39: 6465894531402859282
+      MamutFinal2_4: -3225098239115053013
+      MamutFinal2_40: -4325892852937479426
+      MamutFinal2_41: 505084338531107706
+      MamutFinal2_42: -7668646378499509763
+      MamutFinal2_43: 5541012456453705055
+      MamutFinal2_44: -8403339020301454128
+      MamutFinal2_45: 8004108836875642435
+      MamutFinal2_46: 8873545675933224297
+      MamutFinal2_47: -7875369823153425220
+      MamutFinal2_48: 1665771723148002800
+      MamutFinal2_49: 4907721211007474374
+      MamutFinal2_5: 4197022621833681107
+      MamutFinal2_50: -3777368474419671779
+      MamutFinal2_51: 8170756204355179747
+      MamutFinal2_52: 6364890845105203105
+      MamutFinal2_53: -4309080983289646024
+      MamutFinal2_54: 8117484032668758508
+      MamutFinal2_55: 2162111051789298600
+      MamutFinal2_56: -519622720802402725
+      MamutFinal2_57: 5411817327476579051
+      MamutFinal2_58: 2398845233345686129
+      MamutFinal2_59: 9164985605041301113
+      MamutFinal2_6: -1312279586618406770
+      MamutFinal2_60: -8149889777146592670
+      MamutFinal2_61: -8272662281413939754
+      MamutFinal2_62: -2890011124953933468
+      MamutFinal2_63: 4140002418876811714
+      MamutFinal2_64: 4823649165375241476
+      MamutFinal2_65: -4112886952632600740
+      MamutFinal2_66: 5344021919821033798
+      MamutFinal2_67: -4753142642292685205
+      MamutFinal2_68: 2220695540631261149
+      MamutFinal2_69: 8228617231055753881
+      MamutFinal2_7: 1937539110478204600
+      MamutFinal2_70: 8360233979720672966
+      MamutFinal2_71: 2595750011046256055
+      MamutFinal2_72: 4422267594029281741
+      MamutFinal2_73: -4489136316631077759
+      MamutFinal2_74: 5304026150001209057
+      MamutFinal2_75: 2714845290191325090
+      MamutFinal2_76: 6695560361189250784
+      MamutFinal2_77: -7989376980962169993
+      MamutFinal2_78: -8486317752430045526
+      MamutFinal2_79: -6492543844193473624
+      MamutFinal2_8: -1646413719238145851
+      MamutFinal2_80: 4634790655848643764
+      MamutFinal2_81: -2056384789996930024
+      MamutFinal2_82: 609754551735774647
+      MamutFinal2_83: 3476726664122798742
+      MamutFinal2_84: 1453753015762616586
+      MamutFinal2_85: 4534364579984026491
+      MamutFinal2_86: 7882666151543281700
+      MamutFinal2_87: 8556786962386788048
+      MamutFinal2_88: -502910015939031606
+      MamutFinal2_89: -5725821340153209473
+      MamutFinal2_9: -7779711257571092083
+      MamutFinal2_90: -2120364663673512779
+      MamutFinal2_91: 4588292074876788742
+      MamutFinal2_92: -859365628761801296
+      MamutFinal2_93: -9048027241706859436
+      MamutFinal2_94: -3114802116102248193
+      MamutFinal2_95: -6118029974266844314
+      MamutFinal2_96: -8808948796796873022
+      MamutFinal2_97: 1753728988304819293
+      MamutFinal2_98: 7239727738036438722
+      MamutFinal2_99: -7731634163443107284
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

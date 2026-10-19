@@ -1,0 +1,626 @@
+fileFormatVersion: 2
+guid: d0282c54e2443ad488a9ea9d59094ae8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6487666134768558336
+    second: mamut_durmiendo2_0
+  - first:
+      213: -2956787156522548615
+    second: mamut_durmiendo2_1
+  - first:
+      213: 423779649642124439
+    second: mamut_durmiendo2_2
+  - first:
+      213: 5331971057806324129
+    second: mamut_durmiendo2_3
+  - first:
+      213: -2237496103490548375
+    second: mamut_durmiendo2_4
+  - first:
+      213: -7240951708041094969
+    second: mamut_durmiendo2_5
+  - first:
+      213: -7910921038298207387
+    second: mamut_durmiendo2_6
+  - first:
+      213: -5482874279766988868
+    second: mamut_durmiendo2_7
+  - first:
+      213: -7875751899666917283
+    second: mamut_durmiendo2_8
+  - first:
+      213: 3536833144248606499
+    second: mamut_durmiendo2_9
+  - first:
+      213: -7621894253032725527
+    second: mamut_durmiendo2_10
+  - first:
+      213: 4606009256986921074
+    second: mamut_durmiendo2_11
+  - first:
+      213: -380424644306520692
+    second: mamut_durmiendo2_12
+  - first:
+      213: -2388267762356558330
+    second: mamut_durmiendo2_13
+  - first:
+      213: 7476616886284939866
+    second: mamut_durmiendo2_14
+  - first:
+      213: -2265944268760534650
+    second: mamut_durmiendo2_15
+  - first:
+      213: 6384638412829905748
+    second: mamut_durmiendo2_16
+  - first:
+      213: 4556114027422616469
+    second: mamut_durmiendo2_17
+  - first:
+      213: 7705060887352879329
+    second: mamut_durmiendo2_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mamut_durmiendo2_0
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 192
+        width: 712
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0012638f9f1d80a50800000000000000
+      internalID: 6487666134768558336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_1
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 584
+        width: 26
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97249033fb167f6d0800000000000000
+      internalID: -2956787156522548615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_2
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 519
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79455f7985191e500800000000000000
+      internalID: 423779649642124439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_3
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 560
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1b5355d67fef940800000000000000
+      internalID: 5331971057806324129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_4
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 562
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d002d0621d2f0e0800000000000000
+      internalID: -2237496103490548375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_5
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 459
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8d37629c8f28b90800000000000000
+      internalID: -7240951708041094969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_6
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 316
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56b2212ca33c63290800000000000000
+      internalID: -7910921038298207387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_7
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 285
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7ec5e54eae8e3b0800000000000000
+      internalID: -5482874279766988868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_8
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 270
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58de31ff55b3b290800000000000000
+      internalID: -7875751899666917283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_9
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 268
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f14c8710b551130800000000000000
+      internalID: 3536833144248606499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_10
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 247
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3a4643f87993690800000000000000
+      internalID: -7621894253032725527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 252
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278cddaf305dbef30800000000000000
+      internalID: 4606009256986921074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 204
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c853e443dc578baf0800000000000000
+      internalID: -380424644306520692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_13
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 198
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606683caf1b2bded0800000000000000
+      internalID: -2388267762356558330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_14
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 198
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5273bcf17742c760800000000000000
+      internalID: 7476616886284939866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_15
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 207
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68132bb61bfbd80e0800000000000000
+      internalID: -2265944268760534650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_16
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 196
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4535a082fcaca9850800000000000000
+      internalID: 6384638412829905748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_17
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 198
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b03b091919a3f30800000000000000
+      internalID: 4556114027422616469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mamut_durmiendo2_18
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 196
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8ac6bcd00edea60800000000000000
+      internalID: 7705060887352879329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      mamut_durmiendo2_0: 6487666134768558336
+      mamut_durmiendo2_1: -2956787156522548615
+      mamut_durmiendo2_10: -7621894253032725527
+      mamut_durmiendo2_11: 4606009256986921074
+      mamut_durmiendo2_12: -380424644306520692
+      mamut_durmiendo2_13: -2388267762356558330
+      mamut_durmiendo2_14: 7476616886284939866
+      mamut_durmiendo2_15: -2265944268760534650
+      mamut_durmiendo2_16: 6384638412829905748
+      mamut_durmiendo2_17: 4556114027422616469
+      mamut_durmiendo2_18: 7705060887352879329
+      mamut_durmiendo2_2: 423779649642124439
+      mamut_durmiendo2_3: 5331971057806324129
+      mamut_durmiendo2_4: -2237496103490548375
+      mamut_durmiendo2_5: -7240951708041094969
+      mamut_durmiendo2_6: -7910921038298207387
+      mamut_durmiendo2_7: -5482874279766988868
+      mamut_durmiendo2_8: -7875751899666917283
+      mamut_durmiendo2_9: 3536833144248606499
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
